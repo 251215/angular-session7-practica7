@@ -1,0 +1,27 @@
+h1{
+    font-size: 30px;
+    background-color: red;
+    color: white;
+    height: 50px;
+}
+.container{
+    margin-top: 30px;
+    background-color: rgb(240, 238, 236);
+    height: 250px;
+}
+h3{
+    margin-left: 10px;
+    font-weight: 400;
+   
+}
+p{
+    margin-left: 10px;
+    
+}
+button{
+    margin: 10px;
+}
+.hola{
+    margin-left: 20px;
+    justify-content: center;
+}

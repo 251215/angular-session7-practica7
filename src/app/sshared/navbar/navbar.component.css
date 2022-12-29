@@ -1,0 +1,16 @@
+.navbar{
+    background-color: rgb(246, 136, 136);
+    list-style: none;
+    padding: 0;
+    max-width: auto;
+    margin: auto;
+    height: 50px;
+}.navbar li a{
+    text-decoration: none;
+    color: white;
+    padding: 20px;
+    display: block;
+}
+.navbar li{
+    display: inline-block;
+}
